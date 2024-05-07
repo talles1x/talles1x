@@ -3,14 +3,19 @@
 - ⚡ My strengths include:
 
 •Proactive and quick learner
+
 •Strong foundation in HTML, CSS, JavaScript, Python, Java, SQL, and APIs
+
 •Experience crafting user-friendly interfaces
+
 •Fluent communication in English
 
 - 👋 I'm driven to:
 
 •Continuously improve my communication skills
+
 •Collaborate with experienced developers
+
 •Contribute to innovative products
 
 - 👀 Looking for new challenges! Let's connect and discuss how I can bring value to your team.
