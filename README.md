@@ -3,7 +3,7 @@
 <>
 **<i>`Desenvolvedor Front End`</i>**
 
-Me chamo <b>Talles Oliveira</b>, tenho 19 anos e sou natural de Monteiro-PB. Concluí o ensino médio no CEMES, Atualmente, estou cursando Sistemas da informação na <b>FACISA</b>. Sou um entusiasta por tecnologia e ultimamente tenho compartilhado meu conhecimento através do meu Linkedn <b>"[Talles olveira](https://www.linkedin.com/in/talles-oliveira-98976827b/)"</b>, onde mostro alguns dos <b>meus aprendizados e projetos.</b>
+Me chamo <b>Talles Oliveira</b>, tenho 19 anos e sou natural de Monteiro-PB. Concluí o ensino médio no CEMES, Atualmente, estou cursando Sistemas da informação na <b>FACISA</b>. Sou um entusiasta por tecnologia e ultimamente tenho compartilhado meu conhecimento através do meu Linkedn <b>"[Talles oliveira](https://www.linkedin.com/in/talles-oliveira-98976827b/)"</b>, onde mostro alguns dos <b>meus aprendizados e projetos.</b>
 
 
 ### <b>🤖 Linguagens e Tecnologias</b>
