@@ -10,7 +10,7 @@
 
 <!-- ===== BADGES ===== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/talles-oliveira-98976827b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/talles-oliveira-trs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/talles1x?tab=followers"><img src="https://img.shields.io/github/followers/talles1x?style=for-the-badge&logo=github&label=Seguidores&labelColor=0D1117&color=1F6FEB" /></a>
   <img src="https://komarev.com/ghpvc/?username=talles1x&style=for-the-badge&color=61DAFB&label=VISITAS" />
 </p>
