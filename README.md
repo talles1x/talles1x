@@ -1,10 +1,10 @@
 <!-- ===== BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:61DAFB&height=220&section=header&text=Talles%20Oliveira&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-end%20Developer&descAlignY=56&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:61DAFB&height=220&section=header&text=Talles%20Oliveira&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-end%20Developer%20%E2%80%A2%20UI%2FUX%20Designer&descAlignY=56&descSize=20" />
 
 <!-- ===== TYPING ===== -->
 <p align="center">
   <a href="https://github.com/talles1x">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=620&lines=%3CDesenvolvedor+Front-end+%2F%3E;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Interfaces+r%C3%A1pidas%2C+bonitas+e+acess%C3%ADveis+%E2%9C%A8;Sistemas+de+Informa%C3%A7%C3%A3o+%40+FACISA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=620&lines=%3CDesenvolvedor+Front-end+%2F%3E;UI%2FUX+Design+%E2%80%A2+Figma+%E2%80%A2+Prototipagem;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Interfaces+r%C3%A1pidas%2C+bonitas+e+acess%C3%ADveis+%E2%9C%A8;Sistemas+de+Informa%C3%A7%C3%A3o+%40+FACISA" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,12 +21,14 @@
 
 ```ts
 const talles = {
-  role: "Front-end Developer",
+  role: "Front-end Developer & UI/UX Designer",
   from: "Monteiro - PB 🇧🇷",
   education: "Sistemas de Informação @ FACISA",
   org: "@Heavy-Tech-Solutions",
   stack: ["React", "Next.js", "TypeScript", "React Native"],
-  focus: "UI bem feita, performance e boa experiência",
+  design: ["Figma", "UI Design", "Web Design", "Prototipagem"],
+  principles: ["Leis de UX", "Gestalt", "Hierarquia visual"],
+  focus: "Do protótipo no Figma ao código em produção",
   sharing: "Aprendizados e projetos no LinkedIn",
 };
 
@@ -39,9 +41,23 @@ export default talles;
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,github,python,vscode&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma,git,github,python,vscode&theme=dark&perline=11" />
   </a>
 </p>
+
+---
+
+### 🎨 UI/UX Design
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Prototipagem-0D1117?style=for-the-badge&logo=framer&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/UI_Design-0D1117?style=for-the-badge&logo=adobexd&logoColor=FF61F6" />
+  <img src="https://img.shields.io/badge/Web_Design-0D1117?style=for-the-badge&logo=webflow&logoColor=4353FF" />
+  <img src="https://img.shields.io/badge/Leis_de_UX-0D1117?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF" />
+</p>
+
+> Crio interfaces pensando no usuário primeiro: wireframes, protótipos navegáveis no Figma e design aplicado com Leis de UX e princípios da Gestalt, até virar código.
 
 ---
 
