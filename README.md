@@ -75,11 +75,6 @@ export default talles;
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=talles1x&show_icons=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=1F6FEB&text_color=C9D1D9&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talles1x&layout=compact&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&locale=pt-br" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=talles1x&hide_border=true&background=0D1117&ring=61DAFB&fire=1F6FEB&currStreakLabel=61DAFB&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=pt_br" />
 </p>
 
