@@ -74,19 +74,8 @@ export default talles;
 
 ### 💼 Experiência
 
-**Desenvolvedor de Sistemas · SuperNet** — provedor de internet
-
-- Sistemas internos para a operação da empresa
-- Sites e landing pages institucionais
-- Bot de WhatsApp para autoatendimento financeiro (boletos e promessa de pagamento) integrado ao SGP
-- Suporte e infraestrutura de TI
-
-**Desenvolvedor Front-end (freelance) · Baby Piscinas** — landing page
-
-- Do protótipo no Figma ao código em produção com React + TypeScript, deploy na Vercel
-- Formulário de orçamento e botão de WhatsApp com mensagem pronta
-- SEO (dados estruturados e prévia de compartilhamento) e eventos de conversão no GA4
-- Performance (imagens otimizadas e carregamento sob demanda) e segurança (CSP e HSTS)
+- **Desenvolvedor de Sistemas · SuperNet** — sistemas internos, landing pages e bot de WhatsApp integrado ao SGP
+- **Front-end (freelance) · Baby Piscinas** — landing page do Figma ao código em React + TypeScript, com SEO e GA4
 
 ---
 
