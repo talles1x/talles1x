@@ -81,6 +81,13 @@ export default talles;
 - Bot de WhatsApp para autoatendimento financeiro (boletos e promessa de pagamento) integrado ao SGP
 - Suporte e infraestrutura de TI
 
+**Desenvolvedor Front-end (freelance) · Baby Piscinas** — landing page
+
+- Do protótipo no Figma ao código em produção com React + TypeScript, deploy na Vercel
+- Formulário de orçamento e botão de WhatsApp com mensagem pronta
+- SEO (dados estruturados e prévia de compartilhamento) e eventos de conversão no GA4
+- Performance (imagens otimizadas e carregamento sob demanda) e segurança (CSP e HSTS)
+
 ---
 
 ### 🎓 Formação
