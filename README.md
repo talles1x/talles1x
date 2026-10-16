@@ -66,10 +66,10 @@ export default talles;
 | Projeto | Descrição | Stack |
 | :-- | :-- | :-- |
 | [**Portfólio**](https://github.com/talles1x/portfolio) | Meu portfólio pessoal | ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white) ![TS](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6) |
+| [**Travan**](https://github.com/talles1x/travan) | App de passagens com Pix e QR code | ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB) |
 | [**Heavy**](https://github.com/talles1x/Ecommerce-Heavy) | E-commerce de moda | ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB) |
 | [**Simulador de Memória**](https://github.com/talles1x/ProjetoRobertaAlgoritimos) | First, Next, Best e Worst Fit | ![Node](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E) |
 | [**Marketplace**](https://github.com/Batissta/marketplace) | Marketplace fullstack (equipe) | ![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=61DAFB) |
-| [**Travan**](https://github.com/Batissta/travan-react-native) | App mobile em React Native (equipe) | ![React Native](https://img.shields.io/badge/-React_Native-0D1117?style=flat-square&logo=react&logoColor=61DAFB) |
 | [**Marketplace API**](https://github.com/lealgabryell/MarketplaceBackEnd) | API do marketplace (equipe) | ![API](https://img.shields.io/badge/-Back--end-0D1117?style=flat-square&logo=node.js&logoColor=green) |
 | [**Caminhos do Frio**](https://github.com/Tech-Priest1/Caminhos-do-Frio) | Redesign do site (equipe) | ![Git](https://img.shields.io/badge/-Colab-0D1117?style=flat-square&logo=git&logoColor=F05032) |
 
