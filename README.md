@@ -72,17 +72,20 @@ export default talles;
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Experiência
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=talles1x&hide_border=true&background=0D1117&ring=61DAFB&fire=1F6FEB&currStreakLabel=61DAFB&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&locale=pt_br" />
-</p>
+**Desenvolvedor de Sistemas · SuperNet** — provedor de internet
 
-<details>
-  <summary><b>📈 Ver gráfico de atividade</b></summary>
-  <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=talles1x&bg_color=0D1117&color=C9D1D9&line=61DAFB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true" />
-</details>
+- Sistemas internos para a operação da empresa
+- Sites e landing pages institucionais
+- Bot de WhatsApp para autoatendimento financeiro (boletos e promessa de pagamento) integrado ao SGP
+- Suporte e infraestrutura de TI
+
+---
+
+### 🎓 Formação
+
+**Bacharelado em Sistemas de Informação** · UNIFACISA · 2023 – 2027
 
 ---
 
